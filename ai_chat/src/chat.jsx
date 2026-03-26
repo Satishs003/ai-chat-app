@@ -17,7 +17,7 @@ const handleSend = async () => {
   setInput("");
 
   // Call backend
-  const res = await fetch("https://ai-chat-backend-eowf.onrender.com/", {
+  const res = await fetch("https://ai-chat-app-6yef.onrender.com/", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
