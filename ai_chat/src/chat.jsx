@@ -127,7 +127,7 @@ const handleSend = async () => {
         }}
       >
         This project is for educational purposes only and not intended for commercial use.
-        Please verify important information independently.
+        Designed by <mark>SATISH</mark>
       </div>
     </div>
   );
